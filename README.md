@@ -4,5 +4,6 @@
 
 ##Modo de uso
 ###Una vez instaladas las dependencias, ejecute el archivo ***main.py***, debería arrojarle una ventana de la siguiente manera:
-![aquí debería ir la imagen de la GUI](https://github.com/Davases22/Rick-Morty_API/blob/master/img/img_1.png)
+<img src="https://github.com/Davases22/Rick-Morty_API/blob/master/img/img_1.png" width="500"/>
+
 
